@@ -1,0 +1,4 @@
+temps =range(0,60,10)
+for i in temps
+print i
+
